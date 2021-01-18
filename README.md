@@ -1,1 +1,2 @@
 # Busniss-card
+## projec notes
